@@ -4,7 +4,7 @@
   <title><![CDATA[This is my blog]]></title>
   <link href="http://octoberman.github.com/atom.xml" rel="self"/>
   <link href="http://octoberman.github.com/"/>
-  <updated>2012-01-26T19:28:45-06:00</updated>
+  <updated>2012-01-26T19:30:04-06:00</updated>
   <id>http://octoberman.github.com/</id>
   <author>
     <name><![CDATA[Jason A]]></name>
@@ -214,21 +214,8 @@ also deserve thanks for their feedback.</p>
 <p><a href="http://www.michelf.com/projects/php-markdown/">Michel Fortin</a> has ported Markdown to PHP; it&#8217;s a splendid port, and highly
 recommended for anyone looking for a PHP implementation of Markdown.</p>
 
-<figure class='code'><figcaption><span>Discover if a number is prime</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="n">http</span><span class="ss">:/</span><span class="o">/</span><span class="n">www</span><span class="o">.</span><span class="n">noulakaz</span><span class="o">.</span><span class="n">net</span><span class="o">/</span><span class="n">weblog</span><span class="o">/</span><span class="mi">2007</span><span class="o">/</span><span class="mo">03</span><span class="o">/</span><span class="mi">18</span><span class="o">/</span><span class="n">a</span><span class="o">-</span><span class="n">regular</span><span class="o">-</span><span class="n">expression</span><span class="o">-</span><span class="n">to</span><span class="o">-</span><span class="n">check</span><span class="o">-</span><span class="k">for</span><span class="o">-</span><span class="n">prime</span><span class="o">-</span><span class="n">numbers</span><span class="o">/</span>
-</span><span class='line'><span class="no">Source</span> <span class="no">Article</span>
-</span><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
-</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
-</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
-</span><span class='line'>  <span class="k">end</span>
-</span><span class='line'><span class="k">end</span>
-</span></code></pre></td></tr></table></div></figure>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>This is a test</span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
   </entry>
